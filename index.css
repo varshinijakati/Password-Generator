@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    background-color: #1C1C1C;
+    text-align: center;
+}
+.square{
+    background-color: #1F2937;
+    width: 950px;
+    height: 530px;
+    border: 0;
+    margin: 90px auto;
+    
+}
+.btn-items{
+    margin:115px 144px 355px 52px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    
+}
+#title1{
+    margin: 90px 0px 0px 0px;
+    color: white;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    
+}
+#title2{
+    margin: 0px;
+    color: #4adf86;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;   
+}
+#title3{    
+    color: white;
+    font-size: 15px;
+    font-weight:1;
+}
+#generate{
+    font-family:Arial, Helvetica, sans-serif;
+    width: 200px;
+    height: 90x;
+    margin: 40px 0 0 0;
+    background-color: #4adf86;
+    color: white;
+    border: 0;
+    border-radius: 8px;
+    font-size: 16;
+    padding: 12px;
+}
+.answer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+#ans1, #ans3, #ans2{
+    font-family:Arial, Helvetica, sans-serif;
+    width: auto;
+    height: auto;
+    margin: 40px 10px 10px 0px;
+    background-color: #070930;
+    color: rgb(216, 200, 200);
+    border: 0;
+    border-radius: 8px;
+    font-size: 13;
+    padding: 12px;
+}
