@@ -15,11 +15,14 @@ This project is a password generator that seamlessly creates 8-character long pa
 ```bash
 git clone https://github.com/varshinijakati/password-generator.git
 ```
-- Copy code
+- Install the dependencies
 ```bash
-git clone https://github.com/varshinijakati/password-generator.git
+npm install
 ```
-- Open `index.html` in your web browser.
+- Run the project
+```bash
+npm start
+```
 
 ## Contributions
 Contributions are welcome! Please open an issue or submit a pull request with any improvements or bug fixes.
